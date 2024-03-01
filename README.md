@@ -9,7 +9,7 @@
 
 ## Tecnologias que eu utilizo no meu Dia
 
-![Daniel Macedo GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username={DanielMacedo7}&theme=blue-green)
+![Daniel Macedo GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielMacedo7&theme=blue-green)
 
 
 ### SOFT SKILLS
