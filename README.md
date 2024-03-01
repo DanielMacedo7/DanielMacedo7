@@ -7,10 +7,6 @@
 ![Daniel Macedo GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielMacedo7&show_icons=true&theme=merko)
 
 
-## Tecnologias que eu utilizo no meu Dia
-
-![Daniel Macedo GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielMacedo7&theme=blue-green)
-
 
 ### SOFT SKILLS
 <div style ="display: inline_block"><br/>
