@@ -5,7 +5,7 @@
 [![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/daniel_macedo7/)
 
 <div>
-![Daniel Macedo GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielMacedo7&show_icons=true&theme=merko)
+<img height="200em" src="https://github-readme-stats.vercel.app/api?username=DanielMacedo7&layout=compact&show_icons=true&theme=dark" />
 <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielMacedo7&layout=compact&langs_count=8&theme=dark&hide=css,scss,html,tex,makefile,ShaderLab,HLSL" />
 </div>
 
