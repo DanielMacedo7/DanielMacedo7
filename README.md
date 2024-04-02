@@ -4,11 +4,14 @@
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-macedo-b0350a239/)
 [![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/daniel_macedo7/)
 
+<hr / > 
+
 <div>
 <img height="200em" src="https://github-readme-stats.vercel.app/api?username=DanielMacedo7&layout=compact&show_icons=true&theme=dark" />
 <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielMacedo7&layout=compact&langs_count=8&theme=dark&hide=css,scss,html,tex,makefile,ShaderLab,HLSL" />
 </div>
 
+<hr />
 
 ### SOFT SKILLS
 <div style ="display: inline_block"><br/>
