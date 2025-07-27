@@ -5,8 +5,9 @@
 <div>
   
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=DanielMacedo7&theme=algolia&show_icons=true)](https://github.com/DanielMacedo7)
+[![Main stats](https://github-readme-streak-stats.herokuapp.com/?user=DanielMacedo7&theme=algolia&hide_border=true")](https://github.com/DanielMacedo7)
 [![Daniel Macedo's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=DanielMacedo7&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true)](https://github.com/DanielMacedo7)
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=DanielMacedo7&theme=algolia&hide_border=true" alt="GitHub Streak" />
+
 
 
 [![My Skills](https://skillicons.dev/icons?i=java,spring,postgres,mysql,jenkins,idea,eclipse,maven,html,js)](https://skillicons.dev) 
