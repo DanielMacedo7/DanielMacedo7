@@ -7,7 +7,6 @@
 <hr / > 
 
 <div>
-<img height="200em" src="https://github-readme-stats.vercel.app/api?username=DanielMacedo7&layout=compact&show_icons=true&theme=dark" />
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=DanielMacedo7&theme=algolia&show_icons=true)](https://github.com/DanielMacedo7)
 
   
