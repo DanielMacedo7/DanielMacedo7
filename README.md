@@ -4,7 +4,7 @@ e o Ecossistema Java (Frameworks, API's) e etc.. 🖐️🖐️🖐️
 
 
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-macedo-b0350a239/)
-
+[![Blog](https://img.shields.io/badge/GMAIL-0077B5?style=for-the-badge&logo=gmail&logoColor=red)](@danielmcd.dev@gmail.com)
 
 <hr / > 
 
