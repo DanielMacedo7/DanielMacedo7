@@ -9,6 +9,9 @@
 
 [![My Skills](https://skillicons.dev/icons?i=java,spring,postgres,mysql,jenkins,idea,eclipse,maven,html,js)](https://skillicons.dev) 
 
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=DanielMacedo7&theme=dark&hide_border=true" alt="GitHub Streak" />
+
  
 </div>
 
