@@ -1,6 +1,4 @@
-##### Olá, Me chamo Daniel De Macedo e sou Analista de Sistemas Pleno pela Montreal Informática,Tenho 22 anos e 
-sou formado em Análise e Desenvolvimento de Sistemas pela Estácio, atualmente dedico todo o meu tempo de estudo em boas práticas de desenvolvimento, arquitetura de software
-e o Ecossistema Java (Frameworks, API's) e etc.. 🖐️🖐️🖐️
+##### Olá, Me chamo Daniel De Macedo e sou Analista de Sistemas Pleno pela Montreal Informática,Tenho 22 anos e sou formado em Análise e Desenvolvimento de Sistemas pela Estácio, atualmente dedico todo o meu tempo de estudo em boas práticas de desenvolvimento, arquitetura de software e o Ecossistema Java (Frameworks, API's) e etc.. 🖐️🖐️🖐️
 
 
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-macedo-b0350a239/)
